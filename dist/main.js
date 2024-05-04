@@ -1,1 +1,1 @@
-alert("page is loaded!")
+alert("page is loaded new!")
